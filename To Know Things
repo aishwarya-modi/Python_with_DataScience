@@ -1,0 +1,9 @@
+Python is an example of an: interpreted language
+Data Science is a: Interdisciplinary, made up of branch of statistics,computer science
+                      as well as artificial intellegence.
+Data visualization is not a part of datascience.
+For tuples python uses ().
+Strings are not mutable in strings.
+for code ['a','b','c']+[1,2,3] the result is: ['a','b','c',1,2,3]
+string slicing is a way to make a substring of a string in python.
+the epoch for python is: Jan 1, 1970
