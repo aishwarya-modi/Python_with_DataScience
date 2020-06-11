@@ -1,0 +1,26 @@
+Python most commonly used for:
+web development (server-side),software development, mathematics,system scripting.
+
+What can Python do???
+can be used on a server to create web applications.
+used alongside software to create workflows.
+connect to database systems. It can also read and modify files.
+used to handle big data and perform complex mathematics.
+used for rapid prototyping, or for production-ready software development.
+
+Why Python?
+Python has a simple syntax similar to the English language.
+Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+Python runs on an interpreter system, meaning that code can be executed as soon as it is written.
+This means that prototyping can be very quick.
+
+Python Indentation
+Indentation refers to the spaces at the beginning of a code line.
+Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
+Python uses indentation to indicate a block of code.
+
+Python Variables
+ariables are created when you assign a value to it:
+example:
+x = 5
+y = "Hello, World!"
